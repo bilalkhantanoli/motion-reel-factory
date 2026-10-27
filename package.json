@@ -1,0 +1,27 @@
+{
+  "name": "motion-reel-factory",
+  "version": "1.0.0",
+  "description": "Motion Reel Factory: Autonomous data-driven vertical reels with SVG character, voice sync, and brand config.",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render Reel out/reel.mp4",
+    "still": "remotion still Reel out/still.png --frame=90",
+    "still:zones": "remotion still Reel out/zones.png --frame=90 --props='{\"debugSafeZones\":true}'",
+    "preview:character": "remotion still Character-Preview out/character-preview.png --frame=1",
+    "preview:avatar": "remotion still Avatar out/avatar.png --frame=0",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.538",
+    "@remotion/google-fonts": "4.0.538",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "4.0.538"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "typescript": "^5.6.0"
+  }
+}

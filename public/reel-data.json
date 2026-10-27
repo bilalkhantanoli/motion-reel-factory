@@ -1,0 +1,82 @@
+{
+  "topic": "How Modern AI Agents Work",
+  "audioFile": "vo.mp3",
+  "totalDurationSec": 44.28,
+  "totalFrames": 1347,
+  "keywords": [
+    "superpower",
+    "agents",
+    "bilalaziztanoli",
+    "follow",
+    "work",
+    "modern",
+    "architecture",
+    "internals"
+  ],
+  "phases": [
+    {
+      "id": "hook",
+      "characterExpression": "thinking",
+      "title": "How Modern AI Agents Work",
+      "highlight": "Work",
+      "cardHeading": "Under The Hood",
+      "cardText": "How does How Modern AI Agents Work work when you look beneath the surface?",
+      "sticker": "System Internals",
+      "stickerRotate": -6,
+      "startSec": 0.0,
+      "endSec": 7.1
+    },
+    {
+      "id": "why_important",
+      "characterExpression": "surprised",
+      "title": "Why Is It Important?",
+      "highlight": "Important?",
+      "bigNumbers": [
+        {
+          "num": 1,
+          "heading": "Execution Efficiency",
+          "text": "Optimized memory layouts eliminate computational bottlenecks.",
+          "atSec": 8.3
+        },
+        {
+          "num": 2,
+          "heading": "Scalable Architecture",
+          "text": "Asynchronous event loops handle high throughput effortlessly.",
+          "atSec": 15.6
+        }
+      ],
+      "sticker": "High Performance",
+      "stickerRotate": 7,
+      "startSec": 7.1,
+      "endSec": 23.0
+    },
+    {
+      "id": "how_it_works",
+      "characterExpression": "excited",
+      "title": "How It Operates",
+      "highlight": "Operates",
+      "cardHeading": "Step 1 \u00b7 Core Mechanisms",
+      "cardText": "Low-level data structures enable microsecond response times for How Modern AI Agents.",
+      "subCardHeading": "Step 2 \u00b7 Event-Driven I/O",
+      "subCardText": "Non-blocking dispatch prevents latency spikes under heavy concurrent load.",
+      "sticker": "Core Engine",
+      "stickerRotate": -7,
+      "startSec": 23.0,
+      "endSec": 35.4,
+      "subCardAtSec": 29.2
+    },
+    {
+      "id": "outro",
+      "characterExpression": "wink",
+      "title": "Engineering Superpower",
+      "highlight": "Superpower",
+      "cardHeading": "Master The Internals",
+      "cardText": "Deep system knowledge is what separates junior devs from senior engineers.",
+      "isOutro": true,
+      "sticker": "Follow @bilalaziztanoli",
+      "stickerRotate": 5,
+      "startSec": 35.4,
+      "endSec": 44.3
+    }
+  ]
+}

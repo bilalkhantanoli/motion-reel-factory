@@ -1,0 +1,68 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Remotion & Render outputs
+out/
+.remotion/
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+cb-hi/
+
+# Temporary / scrap / tutorial files
+part-*.txt
+*.zip
+caption-sync-kit/
+scratch/
+me.wav
+me.txt
+script.txt
+captions.txt
+
+# Media / Generated raw WAV
+*.wav
+
+# OS & Editor files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment & Logs
+.env
+.env*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

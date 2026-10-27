@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Ever wondered how artificial intelligence actually works?",
+    "start": 0.1,
+    "duration": 3.938,
+    "end": 4.038
+  },
+  {
+    "text": "Is it really thinking like a human?",
+    "start": 3.987,
+    "duration": 2.562,
+    "end": 6.549
+  },
+  {
+    "text": "Not exactly!",
+    "start": 6.55,
+    "duration": 1.925,
+    "end": 8.475
+  },
+  {
+    "text": "First, AI models are trained on massive amounts of data, like text, images, and code, learning patterns and relationships.",
+    "start": 8.475,
+    "duration": 8.963,
+    "end": 17.438
+  },
+  {
+    "text": "Inside the model, layers of artificial neurons process numbers.",
+    "start": 17.438,
+    "duration": 4.638,
+    "end": 22.076
+  },
+  {
+    "text": "During training, connections are adjusted to make predictions more accurate.",
+    "start": 22.075,
+    "duration": 4.725,
+    "end": 26.8
+  },
+  {
+    "text": "When you ask a question, language models break your words into tokens, process their context, and predict the next token, one step at a time.",
+    "start": 26.8,
+    "duration": 8.912,
+    "end": 35.712
+  },
+  {
+    "text": "Here is the surprising part.",
+    "start": 35.712,
+    "duration": 2.325,
+    "end": 38.037
+  },
+  {
+    "text": "AI does not need to think like us to generate convincing answers.",
+    "start": 38.038,
+    "duration": 4.487,
+    "end": 42.525
+  },
+  {
+    "text": "It uses learned patterns and mathematical calculations, and yes, it can still make mistakes.",
+    "start": 42.525,
+    "duration": 6.725,
+    "end": 49.25
+  },
+  {
+    "text": "That is artificial intelligence in sixty seconds!",
+    "start": 49.25,
+    "duration": 3.725,
+    "end": 52.975
+  },
+  {
+    "text": "Want more complex tech explained simply?",
+    "start": 52.975,
+    "duration": 3.038,
+    "end": 56.013
+  },
+  {
+    "text": "Follow Techly, and level up your knowledge today!",
+    "start": 56.013,
+    "duration": 3.625,
+    "end": 59.638
+  }
+]

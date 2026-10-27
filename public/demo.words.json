@@ -1,0 +1,18 @@
+[
+  { "word": "Five", "start": 0.20, "end": 0.50 },
+  { "word": "tips", "start": 0.50, "end": 0.85 },
+  { "word": "to", "start": 0.85, "end": 0.95 },
+  { "word": "make", "start": 0.95, "end": 1.20 },
+  { "word": "your", "start": 1.20, "end": 1.35 },
+  { "word": "reels", "start": 1.35, "end": 1.75 },
+  { "word": "pop.", "start": 1.75, "end": 2.20 },
+  { "word": "Tip", "start": 2.50, "end": 2.75 },
+  { "word": "one:", "start": 2.75, "end": 3.10 },
+  { "word": "keep", "start": 3.20, "end": 3.45 },
+  { "word": "your", "start": 3.45, "end": 3.60 },
+  { "word": "text", "start": 3.60, "end": 3.95 },
+  { "word": "inside", "start": 3.95, "end": 4.30 },
+  { "word": "the", "start": 4.30, "end": 4.40 },
+  { "word": "safe", "start": 4.40, "end": 4.75 },
+  { "word": "zone.", "start": 4.75, "end": 5.15 }
+]

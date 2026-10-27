@@ -1,0 +1,657 @@
+[
+  {
+    "word": "Ever",
+    "start": 0.1,
+    "end": 0.41
+  },
+  {
+    "word": "wondered",
+    "start": 0.41,
+    "end": 1.02
+  },
+  {
+    "word": "how",
+    "start": 1.02,
+    "end": 1.25
+  },
+  {
+    "word": "artificial",
+    "start": 1.25,
+    "end": 2.01
+  },
+  {
+    "word": "intelligence",
+    "start": 2.01,
+    "end": 2.93
+  },
+  {
+    "word": "actually",
+    "start": 2.93,
+    "end": 3.54
+  },
+  {
+    "word": "works?",
+    "start": 3.54,
+    "end": 4.0
+  },
+  {
+    "word": "Is",
+    "start": 3.99,
+    "end": 4.17
+  },
+  {
+    "word": "it",
+    "start": 4.17,
+    "end": 4.35
+  },
+  {
+    "word": "really",
+    "start": 4.35,
+    "end": 4.87
+  },
+  {
+    "word": "thinking",
+    "start": 4.87,
+    "end": 5.56
+  },
+  {
+    "word": "like",
+    "start": 5.56,
+    "end": 5.91
+  },
+  {
+    "word": "a",
+    "start": 5.91,
+    "end": 6.09
+  },
+  {
+    "word": "human?",
+    "start": 6.09,
+    "end": 6.61
+  },
+  {
+    "word": "Not",
+    "start": 6.55,
+    "end": 7.06
+  },
+  {
+    "word": "exactly!",
+    "start": 7.06,
+    "end": 8.43
+  },
+  {
+    "word": "First,",
+    "start": 8.47,
+    "end": 8.99
+  },
+  {
+    "word": "AI",
+    "start": 8.99,
+    "end": 9.17
+  },
+  {
+    "word": "models",
+    "start": 9.17,
+    "end": 9.68
+  },
+  {
+    "word": "are",
+    "start": 9.68,
+    "end": 9.94
+  },
+  {
+    "word": "trained",
+    "start": 9.94,
+    "end": 10.54
+  },
+  {
+    "word": "on",
+    "start": 10.54,
+    "end": 10.72
+  },
+  {
+    "word": "massive",
+    "start": 10.72,
+    "end": 11.32
+  },
+  {
+    "word": "amounts",
+    "start": 11.32,
+    "end": 11.92
+  },
+  {
+    "word": "of",
+    "start": 11.92,
+    "end": 12.1
+  },
+  {
+    "word": "data,",
+    "start": 12.1,
+    "end": 12.53
+  },
+  {
+    "word": "like",
+    "start": 12.53,
+    "end": 12.88
+  },
+  {
+    "word": "text,",
+    "start": 12.88,
+    "end": 13.3
+  },
+  {
+    "word": "images,",
+    "start": 13.3,
+    "end": 13.91
+  },
+  {
+    "word": "and",
+    "start": 13.91,
+    "end": 14.16
+  },
+  {
+    "word": "code,",
+    "start": 14.16,
+    "end": 14.59
+  },
+  {
+    "word": "learning",
+    "start": 14.59,
+    "end": 15.28
+  },
+  {
+    "word": "patterns",
+    "start": 15.28,
+    "end": 15.96
+  },
+  {
+    "word": "and",
+    "start": 15.96,
+    "end": 16.22
+  },
+  {
+    "word": "relationships.",
+    "start": 16.22,
+    "end": 17.42
+  },
+  {
+    "word": "Inside",
+    "start": 17.44,
+    "end": 17.94
+  },
+  {
+    "word": "the",
+    "start": 17.94,
+    "end": 18.19
+  },
+  {
+    "word": "model,",
+    "start": 18.19,
+    "end": 18.69
+  },
+  {
+    "word": "layers",
+    "start": 18.69,
+    "end": 19.19
+  },
+  {
+    "word": "of",
+    "start": 19.19,
+    "end": 19.37
+  },
+  {
+    "word": "artificial",
+    "start": 19.37,
+    "end": 20.21
+  },
+  {
+    "word": "neurons",
+    "start": 20.21,
+    "end": 20.79
+  },
+  {
+    "word": "process",
+    "start": 20.79,
+    "end": 21.38
+  },
+  {
+    "word": "numbers.",
+    "start": 21.38,
+    "end": 22.05
+  },
+  {
+    "word": "During",
+    "start": 22.07,
+    "end": 22.49
+  },
+  {
+    "word": "training,",
+    "start": 22.49,
+    "end": 23.12
+  },
+  {
+    "word": "connections",
+    "start": 23.12,
+    "end": 23.89
+  },
+  {
+    "word": "are",
+    "start": 23.89,
+    "end": 24.1
+  },
+  {
+    "word": "adjusted",
+    "start": 24.1,
+    "end": 24.66
+  },
+  {
+    "word": "to",
+    "start": 24.66,
+    "end": 24.84
+  },
+  {
+    "word": "make",
+    "start": 24.84,
+    "end": 25.12
+  },
+  {
+    "word": "predictions",
+    "start": 25.12,
+    "end": 25.89
+  },
+  {
+    "word": "more",
+    "start": 25.89,
+    "end": 26.17
+  },
+  {
+    "word": "accurate.",
+    "start": 26.17,
+    "end": 26.8
+  },
+  {
+    "word": "When",
+    "start": 26.8,
+    "end": 27.1
+  },
+  {
+    "word": "you",
+    "start": 27.1,
+    "end": 27.33
+  },
+  {
+    "word": "ask",
+    "start": 27.33,
+    "end": 27.56
+  },
+  {
+    "word": "a",
+    "start": 27.56,
+    "end": 27.74
+  },
+  {
+    "word": "question,",
+    "start": 27.74,
+    "end": 28.42
+  },
+  {
+    "word": "language",
+    "start": 28.42,
+    "end": 29.03
+  },
+  {
+    "word": "models",
+    "start": 29.03,
+    "end": 29.48
+  },
+  {
+    "word": "break",
+    "start": 29.48,
+    "end": 29.86
+  },
+  {
+    "word": "your",
+    "start": 29.86,
+    "end": 30.16
+  },
+  {
+    "word": "words",
+    "start": 30.16,
+    "end": 30.54
+  },
+  {
+    "word": "into",
+    "start": 30.54,
+    "end": 30.85
+  },
+  {
+    "word": "tokens,",
+    "start": 30.85,
+    "end": 31.38
+  },
+  {
+    "word": "process",
+    "start": 31.38,
+    "end": 31.91
+  },
+  {
+    "word": "their",
+    "start": 31.91,
+    "end": 32.29
+  },
+  {
+    "word": "context,",
+    "start": 32.29,
+    "end": 32.89
+  },
+  {
+    "word": "and",
+    "start": 32.89,
+    "end": 33.12
+  },
+  {
+    "word": "predict",
+    "start": 33.12,
+    "end": 33.65
+  },
+  {
+    "word": "the",
+    "start": 33.65,
+    "end": 33.88
+  },
+  {
+    "word": "next",
+    "start": 33.88,
+    "end": 34.18
+  },
+  {
+    "word": "token,",
+    "start": 34.18,
+    "end": 34.64
+  },
+  {
+    "word": "one",
+    "start": 34.64,
+    "end": 34.87
+  },
+  {
+    "word": "step",
+    "start": 34.87,
+    "end": 35.17
+  },
+  {
+    "word": "at",
+    "start": 35.17,
+    "end": 35.35
+  },
+  {
+    "word": "a",
+    "start": 35.35,
+    "end": 35.53
+  },
+  {
+    "word": "time.",
+    "start": 35.53,
+    "end": 35.91
+  },
+  {
+    "word": "Here",
+    "start": 35.71,
+    "end": 36.09
+  },
+  {
+    "word": "is",
+    "start": 36.09,
+    "end": 36.28
+  },
+  {
+    "word": "the",
+    "start": 36.28,
+    "end": 36.57
+  },
+  {
+    "word": "surprising",
+    "start": 36.57,
+    "end": 37.52
+  },
+  {
+    "word": "part.",
+    "start": 37.52,
+    "end": 38.0
+  },
+  {
+    "word": "AI",
+    "start": 38.04,
+    "end": 38.22
+  },
+  {
+    "word": "does",
+    "start": 38.22,
+    "end": 38.55
+  },
+  {
+    "word": "not",
+    "start": 38.55,
+    "end": 38.79
+  },
+  {
+    "word": "need",
+    "start": 38.79,
+    "end": 39.12
+  },
+  {
+    "word": "to",
+    "start": 39.12,
+    "end": 39.3
+  },
+  {
+    "word": "think",
+    "start": 39.3,
+    "end": 39.72
+  },
+  {
+    "word": "like",
+    "start": 39.72,
+    "end": 40.05
+  },
+  {
+    "word": "us",
+    "start": 40.05,
+    "end": 40.23
+  },
+  {
+    "word": "to",
+    "start": 40.23,
+    "end": 40.41
+  },
+  {
+    "word": "generate",
+    "start": 40.41,
+    "end": 41.06
+  },
+  {
+    "word": "convincing",
+    "start": 41.06,
+    "end": 41.89
+  },
+  {
+    "word": "answers.",
+    "start": 41.89,
+    "end": 42.55
+  },
+  {
+    "word": "It",
+    "start": 42.52,
+    "end": 42.7
+  },
+  {
+    "word": "uses",
+    "start": 42.7,
+    "end": 43.04
+  },
+  {
+    "word": "learned",
+    "start": 43.04,
+    "end": 43.64
+  },
+  {
+    "word": "patterns",
+    "start": 43.64,
+    "end": 44.31
+  },
+  {
+    "word": "and",
+    "start": 44.31,
+    "end": 44.57
+  },
+  {
+    "word": "mathematical",
+    "start": 44.57,
+    "end": 45.58
+  },
+  {
+    "word": "calculations,",
+    "start": 45.58,
+    "end": 46.68
+  },
+  {
+    "word": "and",
+    "start": 46.68,
+    "end": 46.94
+  },
+  {
+    "word": "yes,",
+    "start": 46.94,
+    "end": 47.27
+  },
+  {
+    "word": "it",
+    "start": 47.27,
+    "end": 47.45
+  },
+  {
+    "word": "can",
+    "start": 47.45,
+    "end": 47.71
+  },
+  {
+    "word": "still",
+    "start": 47.71,
+    "end": 48.13
+  },
+  {
+    "word": "make",
+    "start": 48.13,
+    "end": 48.47
+  },
+  {
+    "word": "mistakes.",
+    "start": 48.47,
+    "end": 49.23
+  },
+  {
+    "word": "That",
+    "start": 49.25,
+    "end": 49.59
+  },
+  {
+    "word": "is",
+    "start": 49.59,
+    "end": 49.77
+  },
+  {
+    "word": "artificial",
+    "start": 49.77,
+    "end": 50.63
+  },
+  {
+    "word": "intelligence",
+    "start": 50.63,
+    "end": 51.66
+  },
+  {
+    "word": "in",
+    "start": 51.66,
+    "end": 51.84
+  },
+  {
+    "word": "sixty",
+    "start": 51.84,
+    "end": 52.27
+  },
+  {
+    "word": "seconds!",
+    "start": 52.27,
+    "end": 52.95
+  },
+  {
+    "word": "Want",
+    "start": 52.98,
+    "end": 53.32
+  },
+  {
+    "word": "more",
+    "start": 53.32,
+    "end": 53.66
+  },
+  {
+    "word": "complex",
+    "start": 53.66,
+    "end": 54.26
+  },
+  {
+    "word": "tech",
+    "start": 54.26,
+    "end": 54.6
+  },
+  {
+    "word": "explained",
+    "start": 54.6,
+    "end": 55.37
+  },
+  {
+    "word": "simply?",
+    "start": 55.37,
+    "end": 55.97
+  },
+  {
+    "word": "Follow",
+    "start": 56.01,
+    "end": 56.53
+  },
+  {
+    "word": "Techly,",
+    "start": 56.53,
+    "end": 57.12
+  },
+  {
+    "word": "and",
+    "start": 57.12,
+    "end": 57.38
+  },
+  {
+    "word": "level",
+    "start": 57.38,
+    "end": 57.81
+  },
+  {
+    "word": "up",
+    "start": 57.81,
+    "end": 57.99
+  },
+  {
+    "word": "your",
+    "start": 57.99,
+    "end": 58.33
+  },
+  {
+    "word": "knowledge",
+    "start": 58.33,
+    "end": 59.1
+  },
+  {
+    "word": "today!",
+    "start": 59.1,
+    "end": 59.61
+  }
+]

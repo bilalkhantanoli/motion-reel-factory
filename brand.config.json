@@ -1,0 +1,22 @@
+{
+  "handle": "@techly",
+  "name": "Techly",
+  "headerTitle": "TECHLY | AI EXPLAINED",
+  "font": "Inter",
+  "radius": 28,
+  "shadow": true,
+  "colors": {
+    "bg": "#080B16",
+    "surface": "#10162B",
+    "text": "#FFFFFF",
+    "accent": "#00E5FF",
+    "accent2": "#8B5CF6",
+    "accent3": "#3B82F6"
+  },
+  "character": {
+    "primaryColor": "#00E5FF",
+    "faceColor": "#080B16",
+    "antennaColor": "#8B5CF6",
+    "size": 240
+  }
+}
